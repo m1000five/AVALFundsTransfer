@@ -1,6 +1,3 @@
-[submodule "AVALFundsTransfer"]
-	path = AVALFundsTransfer
-	url = https://github.com/m1000five/ESB_AVALFundsTransfer_addFundTransfer_CTRL
 [submodule "ESB_AVALFundsTransfer_addFundTransfer_CTRL"]
 	path = ESB_AVALFundsTransfer_addFundTransfer_CTRL
 	url = https://github.com/m1000five/ESB_AVALFundsTransfer_addFundTransfer_CTRL
